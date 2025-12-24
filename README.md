@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hola, soy Hardy Gora
 
-<!--
-**Ezmaikel/Ezmaikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Software  
+📱 Flutter Developer Junior  
+💾 SQLite · Provider · MVVM  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Soy desarrollador Flutter junior enfocado en la creación de aplicaciones móviles limpias, escalables y bien estructuradas.  
+Me interesa especialmente la arquitectura, el manejo de estado y la persistencia de datos.
+
+Actualmente busco **oportunidades como Junior Flutter Developer o Practicante Mobile**.
+
+---
+
+## 🛠 Tecnologías
+- Flutter & Dart
+- SQLite (sqflite)
+- Provider
+- MVVM
+- REST APIs
+- Git & GitHub
+
+---
+
+##  Proyectos Destacados
+
+###  Customer Manager Flutter
+Aplicación CRUD para gestión de clientes usando Flutter + SQLite + Provider.
+
+🔗 Repo: https://github.com/Ezmaikel/customer_manager_flutter
+
+###  Users Directory Flutter
+Aplicación Flutter que consume una API REST y muestra listado de usuarios.
+
+🔗 Repo: https://github.com/Ezmaikel/users_directory_flutter
+
+---
+
+## 📫 Contacto
+- GitHub: https://github.com/Ezmaikel
+- Email: goramelo2002@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hardy-gora-melo-227b35195/
+
+---
+
